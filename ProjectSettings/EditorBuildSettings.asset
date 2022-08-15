@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 26b9633661c442346a49dd6691c037d5
+  - enabled: 1
+    path: Assets/Scenes/ForMarat.unity
+    guid: 8fb2e0e623e35944d96e63c03f733afe
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+<<<<<<< Updated upstream
+    guid: b92da36ddac1ffa4ba2645a84bf607e6
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 6f8658c02b5d4e74b88cb01fcc5651c2
+=======
+    guid: 8d921cf6fb6be584a9c46f383394181a
+  - enabled: 1
+    path: Assets/Scenes/DoNotTouch.unity
+    guid: 47c45a5182ff303468494e18fb3e5002
+>>>>>>> Stashed changes
+  m_configObjects: {}
